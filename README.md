@@ -12,3 +12,5 @@ python HIROO.py
 the shell output will be python format you can make it .exe file with pyinstaller
 # RUN ON MAC 
 the mac systems has already python installed and you dont need to convert the shell you can change the format to .pyc to run without terminal
+# RUN ON LINUX
+its also like mac systems you just run it in python or make it .pyc file
