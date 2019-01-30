@@ -1846,7 +1846,7 @@ Fyodor Pavlovitch waited anohter two minites.
 "But I shall take Alyosha away from the monastery, though you will dislike it so much, most honored Karl von Moor."
 
 Ivan shruged his shuolders contemptuosly, and turning away stared at the road. And they did not speek again all the way home.
-
+'''
 '''
 
 
