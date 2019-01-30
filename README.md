@@ -8,6 +8,8 @@ git clone https://github.com/E-RROR/HIROO
 cd HIROO
 python HIROO.py
 ```
+<script id="asciicast-evaiUCc9AUziEZ0zAsNpnYifc" src="https://asciinema.org/a/evaiUCc9AUziEZ0zAsNpnYifc.js" async></script>
+
 # RUN ON WINDOWS
 the shell output will be python format you can make it .exe file with pyinstaller
 # RUN ON MAC 
