@@ -8,7 +8,7 @@ git clone https://github.com/E-RROR/HIROO
 cd HIROO
 python HIROO.py
 ```
-<script id="asciicast-evaiUCc9AUziEZ0zAsNpnYifc" src="https://asciinema.org/a/evaiUCc9AUziEZ0zAsNpnYifc.js" async></script>
+<a href="https://asciinema.org/a/evaiUCc9AUziEZ0zAsNpnYifc" target="_blank"><img src="https://asciinema.org/a/evaiUCc9AUziEZ0zAsNpnYifc.svg" /></a>
 
 # RUN ON WINDOWS
 the shell output will be python format you can make it .exe file with pyinstaller
