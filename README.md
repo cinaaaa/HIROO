@@ -1,5 +1,5 @@
 # HIROO
-HIROO is an code injector shell generator for all operating system its undetectable and bypass antivirus
+HIROO is an FUD Windows Remote Administration Tool (RAT) Generator and Controller
 
 # HOW TO USE
 its really easy to usejust do this in your terminal
